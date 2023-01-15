@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807516557775",
+    "project_id": "smss-e20cf",
+    "storage_bucket": "smss-e20cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807516557775:android:15e40e3d2b1ba6304f82ba",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807516557775-72g2iplftmujbbhod581a8jv7hav23hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3h_eNFnWWuIfZEl_RCto0VJ56BLIdao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807516557775-72g2iplftmujbbhod581a8jv7hav23hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
